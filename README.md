@@ -16,7 +16,7 @@
 </td>
 <td width="50%" align="center">
 
-<img align="center" alt="Data Science" width="400" src="https://images.unsplash.com/photo-1581090700227-8e18a930e7a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80">
+<img align="center" alt="Data Science" width="400" src="https://raw.githubusercontent.com/Manuthi24/Manuthi24/9fce74e1f44403c21d0ddb6525fad5e307d58c11/images/data-science.avif">
 
 </td>
 </tr>
