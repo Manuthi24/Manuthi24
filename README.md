@@ -1,4 +1,4 @@
-<p align="center"> <img src="images/ai-gif.gif" width="300px" alt="AI GIF" /> </p>
+<p align="center"> <img src="images/github banner.png" width="900px" alt="AI GIF" /> </p>
 <h1 align="center">Hi 👋, I'm Manuthi Magedaragama</h1>
 <h3 align="center">Passionate Data Science Undergraduate | Exploring the World of Data, AI & Deep Learning</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuthi24&label=Profile%20views&color=0e75b6&style=flat" alt="manuthi24" /> </p>
