@@ -61,19 +61,34 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
+<h3 align="left">Github Status :</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manuthi24&show_icons=true&theme=dark&count_private=true"
-    width="48%" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuthi24&layout=compact&theme=dark&langs_count=8"
-    width="40%" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Stats GIF">
+  </a>
 </p>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Manuthi24&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=Manuthi24&theme=dark&hide_border=false" /> 
+</td>
 
----
+<td width="50%" align="center">
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Manuthi24&theme=dark&langs_count=10&cache_bust=1)
+
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <!-- Skills -->
 <h3 align="center">Languages & Tools</h3>
