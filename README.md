@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="images/Profile Banner.gif" width="900px" alt="AI Banner" />
+  <img src="images/GitHub Profile Banner.gif" width="1200px" alt="AI Banner" />
 </p>
 
 <!-- Intro -->
