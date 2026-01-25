@@ -1,15 +1,15 @@
 
 
-<h1 align="center">Welcome To My GitHub Profile !</h1>
+<h1 align="center">Welcome To My GitHub Profile</h1>
 
 
 <!-- Banner -->
 <p align="center">
-  <img src="images/github banner2.png" width="900px" alt="AI Banner" />
+  <img src="images/Profile Banner.gif" width="900px" alt="AI Banner" />
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi 👋, I'm Manuthi Magedaragama</h1>
+<!--h1 align="center">Hi 👋, I'm Manuthi Magedaragama</h1-->
 <h3 align="center">
   Passionate Data Science Undergraduate | Exploring Data, AI & Deep Learning
 </h3>
