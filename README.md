@@ -30,7 +30,7 @@
 - 🌱 Currently learning **AI, Machine Learning & Deep Learning**  
 - 🧑‍🎓 Undergraduate at **SLIIT**  
 - 💬 Ask me about **Python, Data Analysis, Data Visualization & ML**  
-- 📫 Reach me at **manuthi.magedaragama.ds@gmail.com**  
+- 📫 Reach me at **manuthimagedaragama@gmail.com**  
 - ⚡ Fun fact: **Call me MMM**
 
 </td>
